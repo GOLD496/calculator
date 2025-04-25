@@ -45,6 +45,7 @@ button:hover{
     border-radius:7%;
     background-color:#090909;
     padding:20px;
+    font-size: 48px;
 }
 #calculator-body{
     padding:10px;
