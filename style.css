@@ -18,7 +18,7 @@ body{
 button{
     border: 0px;
     border-radius:20%;
-    background-color: #070707;
+    background-color: #090909;
 
 }
 button:hover{
@@ -38,9 +38,13 @@ button:hover{
     gap:10px;
 }
 #calculator-display{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
     height:30%;
     border-radius:7%;
-    background-color:#070707;;
+    background-color:#090909;
+    padding:20px;
 }
 #calculator-body{
     padding:10px;
